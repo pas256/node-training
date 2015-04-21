@@ -16,7 +16,8 @@ Then run the hello world program:
 
     node hello-world.js
 
-Did you see `Hello World` printed out.
+Did you see `Hello World` printed out? Good.
+
 
 
 
